@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
+<h1 align="center">Hi 👋, I'm Praveen Kumar.</h1>
 <h3 align="center">A passionate Data Science Student from Jharkhand, India</h3>
 
 <p align="center">
