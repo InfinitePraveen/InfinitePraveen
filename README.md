@@ -49,7 +49,7 @@ I am a student transitioning into Data Science. My learning journey has been fue
 ---
 
 ### 📜 Certifications (IBM)
-- 🏅 **IBM Data Science Professional Certificate** (Coursera)
+- 🏅 **IBM Data Science Professional Certificate**
 - 🏅 **IBM Machine Learning with Python**
 - 🏅 **IBM Data Visualization with Python**
 
