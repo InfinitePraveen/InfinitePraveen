@@ -23,9 +23,9 @@ I'm a passionate Data Science practitioner from Jharkhand, India, whose learning
 
 ## 🎯 My Mission & Vision
 
-I'm not just looking for a job for the sake of it — I'm looking for **financial growth** because the projects I want to build are **highly resource-intensive**. From healthcare AI to aerospace analytics, these aren't just dreams — they're concrete visions that require compute, data, and infrastructure.
+I'm not just looking for a job for the sake of it. I'm looking for **financial growth** because the projects I want to build are **highly resource-intensive**. From healthcare AI to aerospace analytics, these aren't just dreams they're concrete visions that require compute, data, and infrastructure.
 
-I don't want funding. I want **opportunities** — a chance to work, learn, and build alongside the tech community. Together, we can create something that matters.
+I don't want funding. I want **opportunities** a chance to work, learn, and build alongside the tech community. Together, we can create something that matters.
 
 > ⭐️ **Note:** I'm actively looking for internships! If you like my work, feel free to reach out.
 
@@ -39,55 +39,37 @@ I don't want funding. I want **opportunities** — a chance to work, learn, and 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Data Science & ML**
-#### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-008080?style=for-the-badge&logo=jax&logoColor=white)
 ![MXNet](https://img.shields.io/badge/MXNet-00758F?style=for-the-badge&logo=apache&logoColor=white)
-
-#### Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-3B7A5E?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-1A5276?style=for-the-badge)
-
-#### Natural Language Processing & Generative AI
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-#### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/scikit--image-F7931E?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Pillow-306998?style=for-the-badge)
-
-#### Data Engineering & Foundations
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-008080?style=for-the-badge&logo=dask&logoColor=white)
-
-#### Visualization & Dashboards
-**Foundational Plots**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=for-the-badge)
 ![Plotnine](https://img.shields.io/badge/Plotnine-3F8E8E?style=for-the-badge)
-
-**Interactive & Web**
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-1A4B6C?style=for-the-badge&logo=bokeh&logoColor=white)
 ![Altair](https://img.shields.io/badge/Altair-FFC107?style=for-the-badge)
-
-**Dashboards & BI Apps**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Panel](https://img.shields.io/badge/Panel-009B77?style=for-the-badge)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white)
-
-**Geospatial Mapping**
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Pydeck](https://img.shields.io/badge/Pydeck-0066B3?style=for-the-badge)
