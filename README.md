@@ -127,14 +127,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinitePraveen&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" alt="GitHub Activity Graph" />
-   <img src="https://github-readme-stats.vercel.app/api?username=InfinitePraveen&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinitePraveen&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-   <img src="https://komarev.com/ghpvc/?username=InfinitePraveen&color=dc143c&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/InfinitePraveen?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/InfinitePraveen?label=Stars&style=social" alt="Stars" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfinitePraveen&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinitePraveen&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" alt="GitHub Activity Graph" />
-  <img src="https://github.com/InfinitePraveen/InfinitePraveen/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Contribution" />
 </div>
 
 ---
@@ -195,6 +188,3 @@ I aspire to apply Data Science and AI to domains that truly matter:
 <div align="center">
   <i>“Learn by building. Build to learn.”</i>
 </div>
-
----
-⭐️ **Note:** I'm actively looking for internships! If you like my work, feel free to reach out.
