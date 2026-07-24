@@ -27,8 +27,6 @@ I'm not just looking for a job for the sake of it. I'm looking for **financial g
 
 I don't want funding. I want **opportunities** a chance to work, learn, and build alongside the tech community. Together, we can create something that matters.
 
-> ⭐️ **Note:** I'm actively looking for internships! If you like my work, feel free to reach out.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
