@@ -154,19 +154,19 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 I aspire to apply Data Science and AI to domains that truly matter:
 
-1. 🏥 **Healthcare & Medicine** — Predictive diagnostics, drug discovery
-2. 💰 **Financial Services & Investment Banking** — Risk modeling, algorithmic trading
-3. 🌱 **Renewable Energy & Specialized Engineering** — Optimization, smart grids
-4. 🤖 **Advanced Military Robotics** — Hypersonic, UAVs, Swarms, Exoskeletons
-5. 🚀 **Aerospace & Space Frontiers** — SATCOM, Deep Space, Asteroid Mining, Debris, Avionics
-6. 🔐 **Cybersecurity & Strategic Intelligence** — Cyber Warfare, Quantum Crypto, GEOINT, Biodefense
-7. ⚛️ **Next-Gen Materials & Propulsion** — Ballistics, Nuclear, DEW, Stealth
-8. 🚢 **Strategic Infrastructure** — Submarines, Virtual Training
-9. 📊 **Advanced Data & Enterprise Tech** — EA, FinOps, People Analytics, RPA, Quantum Info
-10. 💼 **Corporate Finance & Strategic Transactions** — M&A, Treasury, Risk, CorpDev
-11. 🌐 **Global Supply Chain & Operations** — Logistics, Procurement, Inventory
-12. 🏛️ **Governance, Risk & Public Policy** — Antitrust, Govt Relations, ESG, Crisis Comms
-13. 📱 **Digital Product & Customer Growth** — Growth Eng., PM, Customer Success
+1. 🏥 **Healthcare & Medicine** : Predictive diagnostics, drug discovery
+2. 💰 **Financial Services & Investment Banking** : Risk modeling, algorithmic trading
+3. 🌱 **Renewable Energy & Specialized Engineering** : Optimization, smart grids
+4. 🤖 **Advanced Military Robotics** : Hypersonic, UAVs, Swarms, Exoskeletons
+5. 🚀 **Aerospace & Space Frontiers** : SATCOM, Deep Space, Asteroid Mining, Debris, Avionics
+6. 🔐 **Cybersecurity & Strategic Intelligence** : Cyber Warfare, Quantum Crypto, GEOINT, Biodefense
+7. ⚛️ **Next-Gen Materials & Propulsion** : Ballistics, Nuclear, DEW, Stealth
+8. 🚢 **Strategic Infrastructure** : Submarines, Virtual Training
+9. 📊 **Advanced Data & Enterprise Tech** : EA, FinOps, People Analytics, RPA, Quantum Info
+10. 💼 **Corporate Finance & Strategic Transactions** : M&A, Treasury, Risk, CorpDev
+11. 🌐 **Global Supply Chain & Operations** : Logistics, Procurement, Inventory
+12. 🏛️ **Governance, Risk & Public Policy** : Antitrust, Govt Relations, ESG, Crisis Comms
+13. 📱 **Digital Product & Customer Growth** : Growth Eng., PM, Customer Success
 
 ---
 
