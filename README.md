@@ -129,14 +129,25 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 </div>
 
 ---
-
+<!---
 ## 🚀 Best Completed Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🎬 Movie Ratings EDA](https://github.com/InfinitePraveen/Movie-Ratings-EDA) | Insights from movie rating datasets | Python, Pandas, Seaborn |
+| [🦠 COVID-19 Data Analysis](https://github.com/InfinitePraveen/COVID-19-Data-Analysis) | Exploratory analysis of pandemic data | Python, Pandas, Seaborn, Plotly |
 | [🌤️ Weather Data Dashboard](https://github.com/InfinitePraveen/Weather-Data-Dashboard) | Interactive weather analytics dashboard | Python, Streamlit, Pandas, Plotly |
 | [📊 Student Grade Predictor](https://github.com/InfinitePraveen/Student-Grade-Predictor) | ML model for predicting student performance | scikit-learn, Pandas, Matplotlib |
-| [📧 Spam Email Detector](https://github.com/InfinitePraveen/Spam-Email-Detector) | NLP-based spam classification system | NLTK, scikit-learn, Pandas |
+
+---
+--->
+## ✅ Recently Completed Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🎬 Movie Ratings EDA](https://github.com/InfinitePraveen/Movie-Ratings-EDA) | Insights from movie rating datasets | Python, Pandas, Seaborn |
+| [🦠 COVID-19 Data Analysis](https://github.com/InfinitePraveen/COVID-19-Data-Analysis) | Exploratory analysis of pandemic data | Python, Pandas, Seaborn, Plotly |
+| [🌤️ Weather Data Dashboard](https://github.com/InfinitePraveen/Weather-Data-Dashboard) | Interactive weather analytics dashboard | Python, Streamlit, Pandas, Plotly |
 
 ---
 
@@ -144,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🦠 COVID-19 Data Analysis](https://github.com/InfinitePraveen/COVID-19-Data-Analysis) | Exploratory analysis of pandemic data | In Progress |
-| [🎬 Movie Ratings EDA](https://github.com/InfinitePraveen/Movie-Ratings-EDA) | Insights from movie rating datasets | In Progress |
 | [💉 Diabetes Prediction](https://github.com/InfinitePraveen/Diabetes-Prediction) | ML model for early diabetes detection | In Progress |
+| [📉 Customer Churn Prediction](https://github.com/InfinitePraveen/Customer-Churn-Prediction) | Predict which telecom customers are likely to leave using classification models | In Progress |
+| [💳🛡️ Credit Card Fraud Detection](https://github.com/InfinitePraveen/Credit-Card-Fraud-Detection) | Detect fraudulent transactions in an imbalanced dataset using sampling techniques | In Progress |
 
 ---
 
