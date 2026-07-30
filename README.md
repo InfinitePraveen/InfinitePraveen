@@ -145,6 +145,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [📉 Customer Churn Prediction](https://github.com/InfinitePraveen/Customer-Churn-Prediction) | Predict which telecom customers are likely to leave using classification models | Python, Scikit-learn, XGBoost |
 | [💉 Diabetes Prediction](https://github.com/InfinitePraveen/Diabetes-Prediction) | ML model for early diabetes detection | Python, Pandas, Scikit-Learn |
 | [🎬 Movie Ratings EDA](https://github.com/InfinitePraveen/Movie-Ratings-EDA) | Insights from movie rating datasets | Python, Pandas, Seaborn |
 | [🦠 COVID-19 Data Analysis](https://github.com/InfinitePraveen/COVID-19-Data-Analysis) | Exploratory analysis of pandemic data | Python, Pandas, Seaborn, Plotly |
@@ -155,9 +156,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [📉 Customer Churn Prediction](https://github.com/InfinitePraveen/Customer-Churn-Prediction) | Predict which telecom customers are likely to leave using classification models | In Progress |
 | [💳🛡️ Credit Card Fraud Detection](https://github.com/InfinitePraveen/Credit-Card-Fraud-Detection) | Detect fraudulent transactions in an imbalanced dataset using sampling techniques | In Progress |
 | [🎬 Movie Recommendation System](https://github.com/InfinitePraveen/Movie-Recommendation-System) | Build a collaborative filtering recommender using cosine similarity | In Progress |
+| [🐦 Sentiment Analysis on Tweeets](https://github.com/InfinitePraveen/Sentiment-Analysis-on-Tweets) | Build a collaborative filtering recommender using cosine similarity | In Progress |
 
 ---
 
