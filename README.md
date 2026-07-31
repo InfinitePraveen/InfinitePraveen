@@ -148,7 +148,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [📉 Customer Churn Prediction](https://github.com/InfinitePraveen/Customer-Churn-Prediction) | Predict which telecom customers are likely to leave using classification models | Python, Scikit-learn, XGBoost |
 | [💉 Diabetes Prediction](https://github.com/InfinitePraveen/Diabetes-Prediction) | ML model for early diabetes detection | Python, Pandas, Scikit-Learn |
 | [🎬 Movie Ratings EDA](https://github.com/InfinitePraveen/Movie-Ratings-EDA) | Insights from movie rating datasets | Python, Pandas, Seaborn |
-| [🦠 COVID-19 Data Analysis](https://github.com/InfinitePraveen/COVID-19-Data-Analysis) | Exploratory analysis of pandemic data | Python, Pandas, Seaborn, Plotly |
 
 ---
 
