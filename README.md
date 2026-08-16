@@ -158,6 +158,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [📊👥🎯 K-Means Customer Segmentation](https://github.com/InfinitePraveen/K-Means-Customer-Segmentation) | Cluster retail customers by spending behaviour to find distinct groups. | In Progress |
 | [❤️ Heart Disease Prediction](https://github.com/InfinitePraveen/Heart-Disease-Prediction) | Predict heart disease risk using clinical features and an ensemble model. | In Progress |
 | [🕵️‍♂️📰❌ Fake News Detection](https://github.com/InfinitePraveen/Fake-News-Detection) | Build a text classifier to identify whether a news article is real or fake. | In Progress |
+| [📈 Sales Forecasting](https://github.com/InfinitePraveen/Sales-Forecasting) | Forecast future sales for a retail store using time series decomposition. | In Progress |
 
 ---
 
