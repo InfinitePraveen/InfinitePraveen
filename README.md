@@ -145,6 +145,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [📊👥🎯 K-Means Customer Segmentation](https://github.com/InfinitePraveen/K-Means-Customer-Segmentation) | Cluster retail customers by spending behaviour to find distinct groups. | unsupervised learning, K-means, PCA |
 | [📈 Stock Price Prediction](https://github.com/InfinitePraveen/Stock-Price-Prediction) | Predict short-term stock price direction using historical OHLCV data. | JavaScript, HTML, Jupyter |
 | [🐦 Sentiment Analysis on Tweeets](https://github.com/InfinitePraveen/Sentiment-Analysis-on-Tweets) | Build a collaborative filtering recommender using cosine similarity | NLTK, TF-IDF, text classification |
 | [🎬 Movie Recommendation System](https://github.com/InfinitePraveen/Movie-Recommendation-System) | Build a collaborative filtering recommender using cosine similarity | Recommender Systems, Numpy, Cosine Similarity |
@@ -155,7 +156,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [📊👥🎯 K-Means Customer Segmentation](https://github.com/InfinitePraveen/K-Means-Customer-Segmentation) | Cluster retail customers by spending behaviour to find distinct groups. | In Progress |
 | [❤️ Heart Disease Prediction](https://github.com/InfinitePraveen/Heart-Disease-Prediction) | Predict heart disease risk using clinical features and an ensemble model. | In Progress |
 | [🕵️‍♂️📰❌ Fake News Detection](https://github.com/InfinitePraveen/Fake-News-Detection) | Build a text classifier to identify whether a news article is real or fake. | In Progress |
 | [📈 Sales Forecasting](https://github.com/InfinitePraveen/Sales-Forecasting) | Forecast future sales for a retail store using time series decomposition. | In Progress |
