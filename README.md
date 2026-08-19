@@ -148,7 +148,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [❤️ Heart Disease Prediction](https://github.com/InfinitePraveen/Heart-Disease-Prediction) | Predict heart disease risk using clinical features and an ensemble model. | XGBoost, feature selection, cross-validation |
 | [📊👥🎯 K-Means Customer Segmentation](https://github.com/InfinitePraveen/K-Means-Customer-Segmentation) | Cluster retail customers by spending behaviour to find distinct groups. | unsupervised learning, K-means, PCA |
 | [📈 Stock Price Prediction](https://github.com/InfinitePraveen/Stock-Price-Prediction) | Predict short-term stock price direction using historical OHLCV data. | JavaScript, HTML, Jupyter |
-| [🐦 Sentiment Analysis on Tweeets](https://github.com/InfinitePraveen/Sentiment-Analysis-on-Tweets) | Build a collaborative filtering recommender using cosine similarity | NLTK, TF-IDF, text classification |
 
 ---
 
