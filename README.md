@@ -145,6 +145,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🕵️‍♂️📰❌ Fake News Detection](https://github.com/InfinitePraveen/Fake-News-Detection) | Build a text classifier to identify whether a news article is real or fake. | NLP, logistic regression, TF-IDF |
 | [❤️ Heart Disease Prediction](https://github.com/InfinitePraveen/Heart-Disease-Prediction) | Predict heart disease risk using clinical features and an ensemble model. | XGBoost, feature selection, cross-validation |
 | [📊👥🎯 K-Means Customer Segmentation](https://github.com/InfinitePraveen/K-Means-Customer-Segmentation) | Cluster retail customers by spending behaviour to find distinct groups. | unsupervised learning, K-means, PCA |
 | [📈 Stock Price Prediction](https://github.com/InfinitePraveen/Stock-Price-Prediction) | Predict short-term stock price direction using historical OHLCV data. | JavaScript, HTML, Jupyter |
@@ -155,9 +156,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🕵️‍♂️📰❌ Fake News Detection](https://github.com/InfinitePraveen/Fake-News-Detection) | Build a text classifier to identify whether a news article is real or fake. | In Progress |
 | [📈 Sales Forecasting](https://github.com/InfinitePraveen/Sales-Forecasting) | Forecast future sales for a retail store using time series decomposition. | In Progress |
 | [✍️ Handwritten Digit Recognizer](https://github.com/InfinitePraveen/Handwritten-Digit-Recognizer) | Classify MNIST digits using a neural network built with Keras. | In Progress |
+| [🖼️ Image Classification with CNN](https://github.com/InfinitePraveen/Image-Classification-with-CNN) | Train a CNN to classify CIFAR-10 images into 10 object categories. | In Progress |
 
 ---
 
