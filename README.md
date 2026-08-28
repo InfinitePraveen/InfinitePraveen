@@ -145,9 +145,10 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🖼️ Image Classification with CNN](https://github.com/InfinitePraveen/Image-Classification-with-CNN) | Train a CNN to classify CIFAR-10 images into 10 object categories. | CNN, TensorFlow, data augmentation |
+| [✍️ Handwritten Digit Recognizer](https://github.com/InfinitePraveen/Handwritten-Digit-Recognizer) | Classify MNIST digits using a neural network built with Keras. | neural networks, Keras, MNIST |
 | [📈 Sales Forecasting](https://github.com/InfinitePraveen/Sales-Forecasting) | Forecast future sales for a retail store using time series decomposition. | ARIMA, Prophet, seasonality |
-| [🕵️‍♂️📰❌ Fake News Detection](https://github.com/InfinitePraveen/Fake-News-Detection) | Build a text classifier to identify whether a news article is real or fake. | NLP, logistic regression, TF-IDF |
-| [❤️ Heart Disease Prediction](https://github.com/InfinitePraveen/Heart-Disease-Prediction) | Predict heart disease risk using clinical features and an ensemble model. | XGBoost, feature selection, cross-validation |
+
 
 ---
 
@@ -155,9 +156,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [✍️ Handwritten Digit Recognizer](https://github.com/InfinitePraveen/Handwritten-Digit-Recognizer) | Classify MNIST digits using a neural network built with Keras. | In Progress |
-| [🖼️ Image Classification with CNN](https://github.com/InfinitePraveen/Image-Classification-with-CNN) | Train a CNN to classify CIFAR-10 images into 10 object categories. | In Progress |
 | [📰 Topic Modeling on News Articles](https://github.com/InfinitePraveen/Topic-Modeling-on-News-Articles) | Use LDA to discover hidden topics across a large corpus of news documents. | In Progress |
+| [💰 Loan Default Prediction](https://github.com/InfinitePraveen/Loan-Default-Prediction) | Predict whether a borrower will default using financial features and gradient boosting. | In Progress |
+| [🆎 A/B Test Analysis](https://github.com/InfinitePraveen/A-B-Test-Analysis) | Analyze results of an A/B test to determine statistical significance and lift. | In Progress |
 
 ---
 
