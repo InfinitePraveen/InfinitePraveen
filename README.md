@@ -145,9 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📰 Topic Modeling on News Articles](https://github.com/InfinitePraveen/Topic-Modeling-on-News-Articles) | Use LDA to discover hidden topics across a large corpus of news documents. | LDA, gensim, unsupervised NLP |
-| [🖼️ Image Classification with CNN](https://github.com/InfinitePraveen/Image-Classification-with-CNN) | Train a CNN to classify CIFAR-10 images into 10 object categories. | CNN, TensorFlow, data augmentation |
-| [✍️ Handwritten Digit Recognizer](https://github.com/InfinitePraveen/Handwritten-Digit-Recognizer) | Classify MNIST digits using a neural network built with Keras. | neural networks, Keras, MNIST |
+| [💰 Loan Default Prediction](https://github.com/InfinitePraveen/Loan-Default-Prediction) | Predict whether a borrower will default using financial features and gradient boosting. | gradient boosting, EDA, LightGBM |
+| [🆎 A/B Test Analysis](https://github.com/InfinitePraveen/A-B-Test-Analysis) | Analyze results of an A/B test to determine statistical significance and lift. | statistics, hypothesis testing, scipy |
+| [🎯 Click-Through Rate Prediction](https://github.com/InfinitePraveen/Click-Through-Rate-Prediction) | Predict whether a user will click on an ad using behavioral and demographic data. | feature engineering, LightGBM, CTR |
 
 ---
 
@@ -155,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [💰 Loan Default Prediction](https://github.com/InfinitePraveen/Loan-Default-Prediction) | Predict whether a borrower will default using financial features and gradient boosting. | In Progress |
-| [🆎 A/B Test Analysis](https://github.com/InfinitePraveen/A-B-Test-Analysis) | Analyze results of an A/B test to determine statistical significance and lift. | In Progress |
-| [🎯 Click-Through Rate Prediction](https://github.com/InfinitePraveen/Click-Through-Rate-Prediction) | Predict whether a user will click on an ad using behavioral and demographic data. | In Progress |
+| [🏷️ Named Entity Recognition (NER)](https://github.com/InfinitePraveen/Named-Entity-Recognition) | Build a model to extract names, locations, and organizations from raw text. | In Progress |
+| [🔄 Transfer Learning for Images](https://github.com/InfinitePraveen/Transfer-Learning-for-Images) | Fine-tune VGG16 or ResNet on a custom image dataset using pretrained weights. | In Progress |
+| [📈 Demand Forecasting with LSTM](https://github.com/InfinitePraveen/Demand-Forecasting-with-LSTM) | Forecast store demand using a Long Short-Term Memory recurrent neural network. | In Progress |
 
 ---
 
