@@ -149,7 +149,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [🏷️ Named Entity Recognition (NER)](https://github.com/InfinitePraveen/Named-Entity-Recognition) | Build a model to extract names, locations, and organizations from raw text. | spaCy, sequence labeling, IOB tagging |
 | [💰 Loan Default Prediction](https://github.com/InfinitePraveen/Loan-Default-Prediction) | Predict whether a borrower will default using financial features and gradient boosting. | gradient boosting, EDA, LightGBM |
 | [🆎 A/B Test Analysis](https://github.com/InfinitePraveen/A-B-Test-Analysis) | Analyze results of an A/B test to determine statistical significance and lift. | statistics, hypothesis testing, scipy |
-| [🎯 Click-Through Rate Prediction](https://github.com/InfinitePraveen/Click-Through-Rate-Prediction) | Predict whether a user will click on an ad using behavioral and demographic data. | feature engineering, LightGBM, CTR |
 
 ---
 
