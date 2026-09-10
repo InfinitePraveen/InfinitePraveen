@@ -159,6 +159,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 |---------|-------------|--------|
 | [📈 Demand Forecasting with LSTM](https://github.com/InfinitePraveen/Demand-Forecasting-with-LSTM) | Forecast store demand using a Long Short-Term Memory recurrent neural network. | In Progress |
 | [📄 Text Summarization](https://github.com/InfinitePraveen/Text-Summarization) | Build an extractive or abstractive summarizer for long articles. | In Progress |
+| [📡 Anomaly Detection in IoT Data](https://github.com/InfinitePraveen/Anomaly-Detection-in-IoT-Data) | Detect unusual sensor readings in time series using autoencoders. | In Progress |
 
 ---
 
