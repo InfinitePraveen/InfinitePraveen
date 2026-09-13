@@ -148,7 +148,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [📈 Demand Forecasting with LSTM](https://github.com/InfinitePraveen/Demand-Forecasting-with-LSTM) | Forecast store demand using a Long Short-Term Memory recurrent neural network. | LSTM, time series, TensorFlow |
 | [🔄 Transfer Learning for Images](https://github.com/InfinitePraveen/Transfer-Learning-for-Images) | Fine-tune VGG16 or ResNet on a custom image dataset using pretrained weights. | transfer learning, PyTorch, fine-tuning |
 | [🏷️ Named Entity Recognition (NER)](https://github.com/InfinitePraveen/Named-Entity-Recognition) | Build a model to extract names, locations, and organizations from raw text. | spaCy, sequence labeling, IOB tagging |
-| [💰 Loan Default Prediction](https://github.com/InfinitePraveen/Loan-Default-Prediction) | Predict whether a borrower will default using financial features and gradient boosting. | gradient boosting, EDA, LightGBM |
 
 ---
 
