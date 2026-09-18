@@ -160,7 +160,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 |---------|-------------|--------|
 | [🚪 Churn Prediction + SHAP](http://github.com/InfinitePraveen/Churn-Prediction-SHAP) | Build a churn model and explain predictions using SHAP values for interpretability. | In Progress |
 | [🗣️ Speech Emotion Recognition](https://github.com/InfinitePraveen/Speech-Emotion-Recognition) | Classify emotions in audio clips using MFCCs and a deep learning classifier. | In Progress |
-| [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
+| [🤖❓ Question Answering with BERT](https://github.com/InfinitePraveen/Question-Answering-with-BERT) | Fine-tune BERT on SQuAD to answer questions from a given passage of text. | In Progress |
 
 ---
 
