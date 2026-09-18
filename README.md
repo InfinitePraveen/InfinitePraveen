@@ -145,6 +145,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | GANs, PyTorch, generator/discriminator |
 | [📡 Anomaly Detection in IoT Data](https://github.com/InfinitePraveen/Anomaly-Detection-in-IoT-Data) | Detect unusual sensor readings in time series using autoencoders. | autoencoders, anomaly detection, Keras |
 | [📄 Text Summarization](https://github.com/InfinitePraveen/Text-Summarization) | Build an extractive or abstractive summarizer for long articles. | transformers, HuggingFace, BART/T5 |
 | [📈 Demand Forecasting with LSTM](https://github.com/InfinitePraveen/Demand-Forecasting-with-LSTM) | Forecast store demand using a Long Short-Term Memory recurrent neural network. | LSTM, time series, TensorFlow |
@@ -157,6 +158,8 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
+| [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
 | [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
 
 ---
