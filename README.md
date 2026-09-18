@@ -158,7 +158,7 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
+| [🚪 Churn Prediction + SHAP](http://github.com/InfinitePraveen/Churn-Prediction-SHAP) | Build a churn model and explain predictions using SHAP values for interpretability. | In Progress |
 | [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
 | [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | In Progress |
 
