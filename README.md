@@ -145,9 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [👁️ Object Detection with YOLO](https://github.com/InfinitePraveen/Object-Detection-with-YOLO) | Detect and localize multiple objects in images in real time using YOLOv8. | YOLO, computer vision, bounding boxes |
 | [⚙️ End-To-End ML Pipeline](https://github.com/InfinitePraveen/End-to-End-ML-Pipeline) | Build a reproducible pipeline: data ingestion, preprocessing, training, and deployment. | MLflow, sklearn pipelines, joblib|
 | [🤖❓ Question Answering with BERT](https://github.com/InfinitePraveen/Question-Answering-with-BERT) | Fine-tune BERT on SQuAD to answer questions from a given passage of text. | BERT, transformers, HuggingFace |
-| [🗣️ Speech Emotion Recognition](https://github.com/InfinitePraveen/Speech-Emotion-Recognition) | Classify emotions in audio clips using MFCCs and a deep learning classifier. | audio processing, librosa, deep learning |
 
 ---
 
@@ -155,11 +155,11 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [👁️ Object Detection with YOLO](https://github.com/InfinitePraveen/Object-Detection-with-YOLO) | Detect and localize multiple objects in images in real time using YOLOv8. | In Progress |
 | [🤖 Reinforcement Learning CartPole](https://github.com/InfinitePraveen/Reinforcement-Learning-CartPole) | Train an RL agent to balance a pole using Q-learning or policy gradients.
  | In Progress |
 | [🔠 Multi-class Text Classification](https://github.com/InfinitePraveen/Multi-class-Text-Classification) | Fine-tune BERT on a multi-class news topic labeling task. | In Progress |
- 
+| [🧮 Matrix Factorization Recommender](https://github.com/InfinitePraveen/Matrix-Factorization-Recommender) | Use SVD-based collaborative filtering to build a scalable recommendation engine. | In Progress |
+
 ---
 
 ## 🌍 Fields I'm Passionate About
