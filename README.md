@@ -145,10 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🗣️ Speech Emotion Recognition](https://github.com/InfinitePraveen/Speech-Emotion-Recognition) | Classify emotions in audio clips using MFCCs and a deep learning classifier. | audio processing, librosa, deep learning |
 | [🚪 Churn Prediction + SHAP](http://github.com/InfinitePraveen/Churn-Prediction-SHAP) | Build a churn model and explain predictions using SHAP values for interpretability. | XGBoost, SHAP, model explainability |
 | [🤖 GAN-based Image Generation](https://github.com/InfinitePraveen/GAN-based-Image-Generation) | Train a Generative Adversarial Network to produce realistic synthetic images. | GANs, PyTorch, generator/discriminator |
-| [📡 Anomaly Detection in IoT Data](https://github.com/InfinitePraveen/Anomaly-Detection-in-IoT-Data) | Detect unusual sensor readings in time series using autoencoders. | autoencoders, anomaly detection, Keras |
-
 
 ---
 
@@ -156,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🗣️ Speech Emotion Recognition](https://github.com/InfinitePraveen/Speech-Emotion-Recognition) | Classify emotions in audio clips using MFCCs and a deep learning classifier. | In Progress |
 | [🤖❓ Question Answering with BERT](https://github.com/InfinitePraveen/Question-Answering-with-BERT) | Fine-tune BERT on SQuAD to answer questions from a given passage of text. | In Progress |
 | [⚙️ End-To-End ML Pipeline](https://github.com/InfinitePraveen/End-to-End-ML-Pipeline) | Build a reproducible pipeline: data ingestion, preprocessing, training, and deployment. | In Progress |
+| [👁️ Object Detection with YOLO](https://github.com/InfinitePraveen/Object-Detection-with-YOLO) | Detect and localize multiple objects in images in real time using YOLOv8. | In Progress |
 
 ---
 
