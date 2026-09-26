@@ -145,9 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🧮 Matrix Factorization Recommender](https://github.com/InfinitePraveen/Matrix-Factorization-Recommender) | Use SVD-based collaborative filtering to build a scalable recommendation engine. | SVD, collaborative filtering, surprise |
 | [🔠 Multi-class Text Classification](https://github.com/InfinitePraveen/Multi-class-Text-Classification) | Fine-tune BERT on a multi-class news topic labeling task. | BERT, HuggingFace, text classification |
 | [🤖 Reinforcement Learning CartPole](https://github.com/InfinitePraveen/Reinforcement-Learning-CartPole) | Train an RL agent to balance a pole using Q-learning or policy gradients. | OpenAI Gym, Q-learning, policy gradients |
-| [👁️ Object Detection with YOLO](https://github.com/InfinitePraveen/Object-Detection-with-YOLO) | Detect and localize multiple objects in images in real time using YOLOv8. | YOLO, computer vision, bounding boxes |
 
 ---
 
@@ -155,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🧮 Matrix Factorization Recommender](https://github.com/InfinitePraveen/Matrix-Factorization-Recommender) | Use SVD-based collaborative filtering to build a scalable recommendation engine. | In Progress |
 | [🖥️ Medical Image Segmentation](https://github.com/InfinitePraveen/Medical-Image-Segmentation) | Segment tumors or organs in medical images using a U-Net architecture. | In Progress |
 | [🕵️ Large-Scale Fraud Detection](https://github.com/InfinitePraveen/Large-Scale-Fraud-Detection) | Design a real-time fraud detection system with feature stores and streaming data. | In Progress |
+| [🧠 LLM Fine-Tuning on Custom Data](https://github.com/InfinitePraveen/LLM-Fine-Tuning-on-Custom-Data) | Fine-tune a large language model (LLaMA / Mistral) on a domain-specific dataset. | In Progress |
 
 ---
 
