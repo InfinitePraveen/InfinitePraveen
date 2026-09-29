@@ -145,9 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🕵️ Large-Scale Fraud Detection](https://github.com/InfinitePraveen/Large-Scale-Fraud-Detection) | Design a real-time fraud detection system with feature stores and streaming data. | Kafka, feature store, MLOps |
 | [🖥️ Medical Image Segmentation](https://github.com/InfinitePraveen/Medical-Image-Segmentation) | Segment tumors or organs in medical images using a U-Net architecture. | U-Net, medical imaging, PyTorch |
 | [🧮 Matrix Factorization Recommender](https://github.com/InfinitePraveen/Matrix-Factorization-Recommender) | Use SVD-based collaborative filtering to build a scalable recommendation engine. | SVD, collaborative filtering, surprise |
-| [🔠 Multi-class Text Classification](https://github.com/InfinitePraveen/Multi-class-Text-Classification) | Fine-tune BERT on a multi-class news topic labeling task. | BERT, HuggingFace, text classification |
 
 ---
 
@@ -155,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🕵️ Large-Scale Fraud Detection](https://github.com/InfinitePraveen/Large-Scale-Fraud-Detection) | Design a real-time fraud detection system with feature stores and streaming data. | In Progress |
 | [🧠 LLM Fine-Tuning on Custom Data](https://github.com/InfinitePraveen/LLM-Fine-Tuning-on-Custom-Data) | Fine-tune a large language model (LLaMA / Mistral) on a domain-specific dataset. | In Progress |
 | [📊 Multimodal Sentiment Analysis](https://github.com/InfinitePraveen/Multimodal-Sentiment-Analysis) | Fuse text and image features to predict sentiment from social media posts. | In Progress |
+| [🧪 GNN for Drug Discovery](https://github.com/InfinitePraveen/GNN-for-Dug-Discovery) | Predict molecular properties using graph-based representations of chemical compounds. | In Progress |
 
 ---
 
