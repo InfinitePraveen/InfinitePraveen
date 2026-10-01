@@ -145,9 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [📊 Multimodal Sentiment Analysis](https://github.com/InfinitePraveen/Multimodal-Sentiment-Analysis) | Fuse text and image features to predict sentiment from social media posts. | multimodal, vision-language, fusion models |
 | [🧠 LLM Fine-Tuning on Custom Data](https://github.com/InfinitePraveen/LLM-Fine-Tuning-on-Custom-Data) | Fine-tune a large language model (LLaMA / Mistral) on a domain-specific dataset. | LoRA, PEFT, LLMs, HuggingFace |
 | [🕵️ Large-Scale Fraud Detection](https://github.com/InfinitePraveen/Large-Scale-Fraud-Detection) | Design a real-time fraud detection system with feature stores and streaming data. | Kafka, feature store, MLOps |
-| [🖥️ Medical Image Segmentation](https://github.com/InfinitePraveen/Medical-Image-Segmentation) | Segment tumors or organs in medical images using a U-Net architecture. | U-Net, medical imaging, PyTorch |
 
 ---
 
@@ -155,9 +155,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [📊 Multimodal Sentiment Analysis](https://github.com/InfinitePraveen/Multimodal-Sentiment-Analysis) | Fuse text and image features to predict sentiment from social media posts. | In Progress |
 | [🧪 GNN for Drug Discovery](https://github.com/InfinitePraveen/GNN-for-Dug-Discovery) | Predict molecular properties using graph-based representations of chemical compounds. | In Progress |
 | [🧠 Self-Supervised Pretraining](https://github.com/InfinitePraveen/Self-Supervised-Pretraining) | Pretrain a model on unlabeled data using contrastive learning (SimCLR, MoCo). | In Progress |
+| [🧬 Neural Architecture Search](https://github.com/InfinitePraveen/Neural-Architecture-Search) | Automate the search for optimal neural network architectures for a given task. | In Progress |
 
 ---
 
