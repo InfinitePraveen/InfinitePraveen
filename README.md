@@ -148,7 +148,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 | [🧠 Self-Supervised Pretraining](https://github.com/InfinitePraveen/Self-Supervised-Pretraining) | Pretrain a model on unlabeled data using contrastive learning (SimCLR, MoCo). | self-supervised, contrastive learning, ViT |
 | [🧪 GNN for Drug Discovery](https://github.com/InfinitePraveen/GNN-for-Durg-Discovery) | Predict molecular properties using graph-based representations of chemical compounds. | GNN, PyTorch Geometric, molecular graphs |
 | [📊 Multimodal Sentiment Analysis](https://github.com/InfinitePraveen/Multimodal-Sentiment-Analysis) | Fuse text and image features to predict sentiment from social media posts. | multimodal, vision-language, fusion models |
-| [🧠 LLM Fine-Tuning on Custom Data](https://github.com/InfinitePraveen/LLM-Fine-Tuning-on-Custom-Data) | Fine-tune a large language model (LLaMA / Mistral) on a domain-specific dataset. | LoRA, PEFT, LLMs, HuggingFace |
 
 ---
 
