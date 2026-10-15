@@ -145,10 +145,9 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🌐 Federated Learning Simulation](https://github.com/InfinitePraveen/Federated-Learning-Simulation) | Simulate distributed training across multiple clients without sharing raw data. | federated learning, privacy, PySyft |
 | [📊 Causal Inference from Observational Data](https://github.com/InfinitePraveen/Casual-Inference-from-Observational-Data) | Estimate treatment effects from non-experimental data using DoWhy or causal forests. | casual ML, DoWhy, propensity scoring |
 | [🧬 Neural Architecture Search](https://github.com/InfinitePraveen/Neural-Architecture-Search) | Automate the search for optimal neural network architectures for a given task. | NAS, AutoML, Optuna |
-| [🧠 Self-Supervised Pretraining](https://github.com/InfinitePraveen/Self-Supervised-Pretraining) | Pretrain a model on unlabeled data using contrastive learning (SimCLR, MoCo). | self-supervised, contrastive learning, ViT |
-| [🧪 GNN for Drug Discovery](https://github.com/InfinitePraveen/GNN-for-Durg-Discovery) | Predict molecular properties using graph-based representations of chemical compounds. | GNN, PyTorch Geometric, molecular graphs |
 
 ---
 
@@ -156,7 +155,6 @@ I don't want funding. I want **opportunities** a chance to work, learn, and buil
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [🌐 Federated Learning Simulation](https://github.com/InfinitePraveen/Federated-Learning-Simulation) | Simulate distributed training across multiple clients without sharing raw data. | In Progress |
 | [⚙️ Production ML System + Monitoring](https://github.com/InfinitePraveen/Production-ML-System-Monitoring) | Deploy a full ML system with CI/CD, model versioning, drift detection, and alerting. | In Progress |
 
 ---
